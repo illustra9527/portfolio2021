@@ -55,7 +55,8 @@ export default {
         { path: '/weather-card', label: '天氣卡片', content: '介接氣象局 api 呈現，提供過濾縣市選項以及搜尋功能。', img: 'weather', isLink: false },
         { path: '/game', label: '終極密碼', content: '猜數字遊戲。使用套件 element UI。有簡單及困難模式。', img: 'game', isLink: false },
         { path: '/tdee', label: 'TDEE 計算', content: '網路上計算機的都不是很方便，所以自己寫了一個。', img: 'tdee', isLink: false },
-        { path: 'https://illustra9527.github.io/food-page/', label: '嘉惠美食', content: '利用套件快速製作的靜態一頁式產品行銷網頁。發佈在 github 使用。', img: 'food', isLink: true, github: 'https://github.com/illustra9527/food-page' }
+        { path: 'https://illustra9527.github.io/food-page/', label: '嘉惠美食', content: '利用套件快速製作的靜態一頁式產品行銷網頁。發佈在 github 使用。', img: 'food', isLink: true, github: 'https://github.com/illustra9527/food-page' },
+        { path: 'https://illustra9527.github.io/portfolio2021/#/', label: '作品集網站', content: '利用 vue, vuex, vue router 及套件庫製作而成的作品集。', img: 'portfolio', isLink: true, github: 'https://github.com/illustra9527/portfolio2021' }
     ],
     intros: [
         {
