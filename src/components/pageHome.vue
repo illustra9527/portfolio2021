@@ -30,7 +30,7 @@
                 >
                     <b-card
                         :title="link.label"
-                        :img-src="require(`@/assets/img/card/${link.img}.png`)"
+                        :img-src="require(`@/assets/img/card/${link.img}`)"
                         img-alt="Image"
                         img-top
                         tag="article"
