@@ -35,6 +35,11 @@ const routes = [
             {
                 path: '/about',
                 component: () => import('../components/pageAbout')
+            },
+            // 測試頁
+            {
+                path: '/test',
+                component: () => import('../components/test')
             }
         ]
     }
